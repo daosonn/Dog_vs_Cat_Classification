@@ -1,0 +1,5 @@
+train: /content/dataset/dataset/train/images
+val: /content/dataset/dataset/val/images
+
+nc: 2  # Số lượng lớp (ví dụ: chó và mèo)
+names: ['dog', 'cat']  # Tên các lớp
